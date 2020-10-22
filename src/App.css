@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+*{
+  font-family: 'Roboto', sans-serif;
+  background-color: azure;
+  color: #000;
+}
+
+.principal{
+align-items: center;
+text-align: center;
+}
+
+table{
+  border-collapse: collapse;
+  width: 60%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, th, td{
+  border: 2px solid #010
+}
+
+h1{
+  font-size: 50px;
+}
+
+img{
+  width: 150px;
+  border-radius: 75px;
+}
